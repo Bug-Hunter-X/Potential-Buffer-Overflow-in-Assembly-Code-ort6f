@@ -1,0 +1,1 @@
+This repository demonstrates a potential buffer overflow vulnerability in a short assembly code snippet.  The vulnerability arises from the unsafe memory access in the `mov` instruction. The solution shows how to properly address this vulnerability with bounds checking.
